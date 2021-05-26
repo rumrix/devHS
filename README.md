@@ -1,5 +1,6 @@
 # Check banch!
 
-- React Next
-- VueJs Nuxt, Quasar
-- php8 Laravel
+- Laravel (php8)
+- Next (React)
+- Nuxt (VueJs)
+- Quasar (VueJs
