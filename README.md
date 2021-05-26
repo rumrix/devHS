@@ -1,5 +1,5 @@
 # devHS
 
-- React Next
-- Vue Nuxt, Quasar
+- ReactJs Next
+- VueJs Nuxt, Quasar
 - Laravel
