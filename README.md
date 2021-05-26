@@ -2,4 +2,4 @@
 
 - ReactJs Next
 - VueJs Nuxt, Quasar
-- Laravel
+- php8 Laravel
