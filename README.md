@@ -1,11 +1,11 @@
 # devResearch
 
-- React Next 
+- React Next -
 npm i
 npm run dev
 
-- Vue Nuxt
+- Vue Nuxt -
 npm i
 npm run dev
 
-- Laravel
+- Laravel -
