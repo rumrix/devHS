@@ -20,7 +20,6 @@ export default {
     '~/plugins/vue-video.js',
     { src: '~/plugins/persistedState.js', ssr: false },
     { src: '~/plugins/vue-js-xlsx.js', ssr: false },
-    { src: '~/plugins/nmap.js', mode: 'client' },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

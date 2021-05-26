@@ -12,7 +12,6 @@
           <b-nav-item href="/axios">Select</b-nav-item>
           <b-nav-item href="/router-middleware">Insert</b-nav-item>
           <b-nav-item href="/address">Address</b-nav-item>
-          <b-nav-item href="/nmap">N Map</b-nav-item>
           <b-nav-item href="/bootstrap-vue">B Vue</b-nav-item>
           <b-nav-item href="/file-upload-download">File</b-nav-item>
         </b-navbar-nav>
