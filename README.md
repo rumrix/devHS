@@ -1,5 +1,5 @@
 # devHS
 
-- ReactJs Next
+- React Next
 - VueJs Nuxt, Quasar
 - php8 Laravel
