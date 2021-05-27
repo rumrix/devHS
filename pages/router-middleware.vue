@@ -110,7 +110,6 @@
         small
         hover
         :items="datasInsert"
-        :fields="sortable"
         :per-page="perPageI"
         :current-page="currentPageI"
       ></b-table>
@@ -140,7 +139,6 @@
         small
         hover
         :items="datasExist"
-        :fields="sortable"
         :per-page="perPageE"
         :current-page="currentPageE"
       ></b-table>
@@ -175,6 +173,7 @@ export default {
       perPageI: 5,
       currentPageE: 1,
       currentPageI: 1,
+      tempFile: null,
     }
   },
   computed: {
