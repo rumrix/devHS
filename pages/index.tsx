@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Button from 'antd/lib/button'
 
 const IndexPage = () => (
   <div>
@@ -7,6 +8,9 @@ const IndexPage = () => (
       <Link href="/about">
         <a>About</a>
       </Link>
+      <Button href="/">
+        Antd TEST
+      </Button>
     </p>
   </div>
 )
