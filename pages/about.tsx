@@ -1,5 +1,6 @@
 import Link from 'next/link'
 
+//test jandi
 const AboutPage = () => (
   <div title="About | Next.js + TypeScript Example">
     <h1>About</h1>
