@@ -1,4 +1,4 @@
-# Check banch!
+# Check branch!
 
 - Laravel (php8)
 - Next (React)
